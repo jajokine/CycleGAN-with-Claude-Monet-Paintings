@@ -1,5 +1,5 @@
 # CycleGAN-with-Monet-Paintings
-Capturing the special characteristics of Claude Monet's paintings inorder to turn ordinary pictures into paintings
+Capturing the special characteristics of Claude Monet's paintings in order to turn ordinary pictures into paintings
 
 In a CycleGAN model we can obtain image-to-image translations without paired examples. This means the algorithm learns the specific features of an image that it then reproduces in the form of another image that has similar features compared to the original one. In fact, so similar that it is difficult to spot a generated image from the original one. This could mean for example learning the details of a zebra and transforming the images of horses into zebras. Or we could have a winter seasonal landscape transformed into the same landscape but during summertime.
 
