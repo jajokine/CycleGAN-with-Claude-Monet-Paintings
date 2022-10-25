@@ -1,4 +1,4 @@
-# CycleGAN-with-Monet-Paintings
+<h1 align='center'>RCycleGAN-with-Monet-Paintings</h1>
 
 <p align='center'>
       <img
