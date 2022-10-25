@@ -1,4 +1,4 @@
-<h1 align='center'>CycleGAN-with-Monet-Paintings</h1>
+<h1 align='center'>CycleGAN with Claude Monet Paintings</h1>
 
 <p align='center'>
       <img
